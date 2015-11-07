@@ -39,7 +39,7 @@ class WidgetPageExtensionTest extends FunctionalTest {
 
 		// $response = $controller->preview($request);
 
-		var_dump($sidebarView);
+		//var_dump($sidebarView);
 
 		// $this->assertContains('share-draft-content-message', $response);
 
